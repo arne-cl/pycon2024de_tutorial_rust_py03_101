@@ -1,0 +1,6 @@
+I couldn't run `maturin init` in the main directory b/c there's already a project there.
+
+Running `maturin init` will create a `Cargo.toml`
+
+Running `maturin develop` will compile the code and provide it as an importable
+Python library (in the current venv).
